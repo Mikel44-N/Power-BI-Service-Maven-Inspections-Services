@@ -75,5 +75,32 @@ The dataset consists of multiple CSV files containing:
 - Designed mobile-optimized dashboards
 - Used data lineage to track dataset relationships
 
+## Dashboard
+![Dashboard](Dashboard.png)
+
+## Dataflow
+![Dataflow](Dataflow.png)
+
+## Data Driven Alert
+![Data_Driven_Alert](Data_Driven_Alert.png)
+
+## Data Lineage
+![Data_Lineage](Data_Lineage.png)
+
+## Gateway Setup
+![Gateway_Setup](Gateway_Setup.png)
+
+## Mobile Layout
+![Mobile Layout](Mobile_Layout.png)
+
+## Q&A
+![Q&A](Q&A.png)
+
+## RLS Setup
+![RLS_Setup](RLS_Setup.png)
+
+## Workspace
+![Workspace](Workspace.png)
+
 ## Outcome
 The project demonstrates how Power BI Service can be used to deploy, manage, and share enterprise BI solutions. By combining dataflows, semantic models, and interactive dashboards, the platform enables collaborative data analysis and automated reporting across the organization.
