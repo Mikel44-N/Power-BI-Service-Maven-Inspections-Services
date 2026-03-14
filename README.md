@@ -1,4 +1,8 @@
 ## Power-BI-Service-Reporting-Workspace-Management-Maven-Inspection-Services
+## Download Report
+Download the Power BI report file:
+[MavenInspectionalServices.pbix](MavenInspectionalServices.pbix)
+
 # Business Scenario
 In this project, I assumed the role of a Business Intelligence Analyst at Maven Inspectional Services, a restaurant health inspection agency based in Los Angeles, California.
 The organization needed a scalable reporting solution to analyze restaurant inspection data and share insights across teams. The dataset consisted of multiple CSV files containing information about restaurants, inspections, inspectors, and violation records.
@@ -57,7 +61,19 @@ The dataset consists of multiple CSV files containing:
 - Region lookup
 - Restaurant Inspection data
 - Restaurant Name lookup
-- Sanitary Grade lookup
+- Sanitary Grade lookup## Key Features
+
+## Key Features
+- Created Power BI workspace for collaborative reporting
+- Built dataflows for centralized data transformation
+- Configured on-premises data gateway
+- Enabled scheduled dataset refresh
+- Implemented dashboards and report pinning
+- Used Q&A natural language query
+- Created data-driven alerts
+- Implemented Row-Level Security (RLS)
+- Designed mobile-optimized dashboards
+- Used data lineage to track dataset relationships
 
 ## Outcome
 The project demonstrates how Power BI Service can be used to deploy, manage, and share enterprise BI solutions. By combining dataflows, semantic models, and interactive dashboards, the platform enables collaborative data analysis and automated reporting across the organization.
