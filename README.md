@@ -49,5 +49,15 @@ Power BI Environment Setup
 -	Designed mobile-optimized reports
 -	Configured static and dynamic Row-Level Security (RLS)
 
+## Dataset
+The dataset consists of multiple CSV files containing:
+- Calendar lookup
+- City lookup
+- Inspector lookup
+- Region lookup
+- Restaurant Inspection data
+- Restaurant Name lookup
+- Sanitary Grade lookup
+
 ## Outcome
 The project demonstrates how Power BI Service can be used to deploy, manage, and share enterprise BI solutions. By combining dataflows, semantic models, and interactive dashboards, the platform enables collaborative data analysis and automated reporting across the organization.
